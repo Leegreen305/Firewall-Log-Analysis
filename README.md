@@ -6,7 +6,7 @@ This project demonstrates how to use Splunk Cloud to ingest and analyze pfSense-
 ---
 
 ##  Tools Used
-- Splunk Cloud (14-day trial)
+- Splunk Cloud 
 - Sample pfSense-style logs (`firewall_log.txt`)
 - Search Processing Language (SPL)
 
